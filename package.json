@@ -1,0 +1,14 @@
+{
+  "name": "lavalink",
+  "module": ".",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "start": "java -jar Lavalink.jar"
+  }
+}
